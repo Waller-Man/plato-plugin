@@ -1,0 +1,3 @@
+- insert:
+    - id: sf-plato
+      name: '@software-factory/plato'

@@ -1,0 +1,6 @@
+# Credential-free adapter configuration. Model requests always go through DSH.
+nlp:
+  coref_provider: none
+  dependency_provider: none
+corenlp:
+  mode: off

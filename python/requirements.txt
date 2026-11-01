@@ -1,0 +1,3 @@
+# Minimal dependencies of the vendored activity workflow, with optional NLP disabled.
+httpx==0.28.1
+PyYAML==6.0.3
